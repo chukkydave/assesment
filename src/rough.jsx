@@ -32,19 +32,19 @@ function App() {
                             <SidebarText active>Feeds</SidebarText>
                         </SidebarItem>
                         <SidebarItem>
-                            <SidebarIcon src={rssfeed} alt="rss icon" />
+                            <SidebarIcon src={rssfeed} alt="" />
                             <SidebarText>Gallery</SidebarText>
                         </SidebarItem>
                         <SidebarItem>
-                            <SidebarIcon src={settings} alt="settings icon" />
+                            <SidebarIcon src={settings} alt="" />
                             <SidebarText>Settings</SidebarText>
                         </SidebarItem>
                         <SidebarItem>
-                            <SidebarIcon src={rssfeed} alt="rss icon" />
+                            <SidebarIcon src={rssfeed} alt="" />
                             <SidebarText>Referral</SidebarText>
                         </SidebarItem>
                         <SidebarItem>
-                            <SidebarIcon src={bookmark} alt="bookmark icon" />
+                            <SidebarIcon src={bookmark} alt="" />
                             <SidebarText>Saved</SidebarText>
                         </SidebarItem>
                     </Sidebar>
@@ -54,7 +54,7 @@ function App() {
 
                 <CenterContainer>
                     <ProfileContainer>
-                        <ProfileImage src={smilinglady} alt="smiling lady" />
+                        <ProfileImage src={smilinglady} alt="" />
                         <ProfileInfo>
                             <ProfileName>Rose Kooto</ProfileName>
                             <ProfileUsername>User name</ProfileUsername>
@@ -100,7 +100,7 @@ function App() {
                             <div>
                                 <div>
                                     <div>
-                                        <img src={smilinglady} alt="smiling lady" />
+                                        <img src={smilinglady} alt="" />
                                     </div>
                                     <div>
                                         <div>

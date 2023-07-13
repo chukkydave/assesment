@@ -11,7 +11,6 @@ import {
     Location,
     Orders,
     Button,
-    Icon,
     ProgressBar,
     ProgressFill,
     OrdersLeft,
@@ -27,7 +26,7 @@ const SuggestedListings = () => {
                 <List>
                     <div>
                         <ListItem>
-                            <ProfileImage src={ellipse} alt="Profile Image" />
+                            <ProfileImage src={ellipse} alt="" />
                             <ProfileInfo>
                                 <ProfileName>Smoothie</ProfileName>
                                 <Location>Smoothy store</Location>
@@ -45,7 +44,7 @@ const SuggestedListings = () => {
                     </div>
                     <div>
                         <ListItem>
-                            <ProfileImage src={ellipse} alt="Profile Image" />
+                            <ProfileImage src={ellipse} alt="" />
                             <ProfileInfo>
                                 <ProfileName>Smoothie</ProfileName>
                                 <Location>Smoothy store</Location>
@@ -63,7 +62,7 @@ const SuggestedListings = () => {
                     </div>
                     <div>
                         <ListItem>
-                            <ProfileImage src={ellipse} alt="Profile Image" />
+                            <ProfileImage src={ellipse} alt="" />
                             <ProfileInfo>
                                 <ProfileName>Smoothie</ProfileName>
                                 <Location>Smoothy store</Location>
@@ -81,7 +80,7 @@ const SuggestedListings = () => {
                     </div>
                     <div>
                         <ListItem>
-                            <ProfileImage src={ellipse} alt="Profile Image" />
+                            <ProfileImage src={ellipse} alt="" />
                             <ProfileInfo>
                                 <ProfileName>Smoothie</ProfileName>
                                 <Location>Smoothy store</Location>

@@ -27,58 +27,58 @@ const SuggestedUsers = () => {
             <Chief>
                 <List>
                     <ListItem>
-                        <ProfileImage src={ellipse} alt="Profile Image" />
+                        <ProfileImage src={ellipse} alt="" />
                         <ProfileInfo>
                             <ProfileName>Rose Kooto</ProfileName>
                             <Location>Abuja</Location>
                         </ProfileInfo>
                         <Button>Support</Button>
-                        <Icon src={bookmark} alt="Icon" />
+                        <Icon src={bookmark} alt="" />
                     </ListItem>
                     <ListItem>
-                        <ProfileImage src={ellipse} alt="Profile Image" />
+                        <ProfileImage src={ellipse} alt="" />
                         <ProfileInfo>
                             <ProfileName>Rose Kooto</ProfileName>
                             <Location>Abuja</Location>
                         </ProfileInfo>
                         <Button>Support</Button>
-                        <Icon src={bookmark} alt="Icon" />
+                        <Icon src={bookmark} alt="" />
                     </ListItem>
                     <ListItem>
-                        <ProfileImage src={ellipse} alt="Profile Image" />
+                        <ProfileImage src={ellipse} alt="" />
                         <ProfileInfo>
                             <ProfileName>Rose Kooto</ProfileName>
                             <Location>Abuja</Location>
                         </ProfileInfo>
                         <Button>Support</Button>
-                        <Icon src={bookmark} alt="Icon" />
+                        <Icon src={bookmark} alt="" />
                     </ListItem>
                     <ListItem>
-                        <ProfileImage src={ellipse} alt="Profile Image" />
+                        <ProfileImage src={ellipse} alt="" />
                         <ProfileInfo>
                             <ProfileName>Rose Kooto</ProfileName>
                             <Location>Abuja</Location>
                         </ProfileInfo>
                         <Button>Support</Button>
-                        <Icon src={bookmark} alt="Icon" />
+                        <Icon src={bookmark} alt="" />
                     </ListItem>
                     <ListItem>
-                        <ProfileImage src={ellipse} alt="Profile Image" />
+                        <ProfileImage src={ellipse} alt="" />
                         <ProfileInfo>
                             <ProfileName>Rose Kooto</ProfileName>
                             <Location>Abuja</Location>
                         </ProfileInfo>
                         <Button>Support</Button>
-                        <Icon src={bookmark} alt="Icon" />
+                        <Icon src={bookmark} alt="" />
                     </ListItem>
                     <ListItem>
-                        <ProfileImage src={ellipse} alt="Profile Image" />
+                        <ProfileImage src={ellipse} alt="" />
                         <ProfileInfo>
                             <ProfileName>Rose Kooto</ProfileName>
                             <Location>Abuja</Location>
                         </ProfileInfo>
                         <Button>Support</Button>
-                        <Icon src={bookmark} alt="Icon" />
+                        <Icon src={bookmark} alt="" />
                     </ListItem>
                 </List>
             </Chief>

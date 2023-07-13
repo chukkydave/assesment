@@ -11,7 +11,7 @@ import friendslaughing from "./assets/friendslaughing.png";
 import TopBar from "./Components/top-nav/Main"
 import BottomRight from "./Components/rightBottom/Main"
 import RightTop from "./Components/rightTop/Main"
-import { Container, LeftContainer, SwitchAccountContainer, SwitchAccountTitle, SwitchAccountButtons, SwitchAccountButtonO, SwitchAccountButtonT, Sidebar, SidebarIcon, SidebarItem, SidebarText, Placeholder, CenterContainer, ProfileContainer, ProfileImage, ProfileInfo, ProfileName, ProfileUsername, ProfileDescription, ProfileStats, ProfileStat, ProfileStatValue, ProfileStatLabel, ProfileActionButton, OtherPagesContainer, OtherPagesTitle, RightContainer } from "./styled-components/styled";
+import { Container, LeftContainer, SwitchAccountContainer, SwitchAccountTitle, SwitchAccountButtonO, SwitchAccountButtonT, Sidebar, SidebarIcon, SidebarItem, SidebarText, CenterContainer, ProfileContainer, ProfileImage, ProfileInfo, ProfileName, ProfileUsername, ProfileDescription } from "./styled-components/styled";
 
 
 
@@ -65,7 +65,7 @@ export default function App() {
 
             <SidebarItem>
               <SidebarIcon src={settings}
-                alt="rss iconn">
+                alt="">
               </SidebarIcon>
               <SidebarText>
                 Settings
@@ -74,7 +74,7 @@ export default function App() {
 
             <SidebarItem>
               <SidebarIcon src={rssfeed}
-                alt="rss icon">
+                alt="">
               </SidebarIcon>
               <SidebarText>
                 Referral
@@ -83,7 +83,7 @@ export default function App() {
 
             <SidebarItem>
               <SidebarIcon src={bookmark}
-                alt="rss icon">
+                alt="">
               </SidebarIcon>
               <SidebarText>
                 Saved
@@ -387,7 +387,7 @@ export default function App() {
                   <img
                     style={{ width: "25px", height: "19px" }}
                     src={image}
-                    alt="icon"
+                    alt=""
                   />
                 </span>
                 <span
