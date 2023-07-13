@@ -4,10 +4,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #F3F3F3 0% 0% no-repeat padding-box;
+  background: #F3F3F3;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+html {
+  box-sizing: border-box;
+  margin: 0;
+  width: 100%;
 }
