@@ -8,7 +8,7 @@ function Main() {
     <TopNav>
       <LeftSide>
         <div><img className="dp" src={dp} alt="" /></div>
-        <div><img src={iconDown} className='icon' /> <span className='name'>Jonathan Deo</span></div>
+        <div><img src={iconDown} className='icon' alt="" /> <span className='name'>Jonathan Deo</span></div>
       </LeftSide>
       <RightSide>
         {/* <img className='usa' src={usa} alt="Image 1" />
